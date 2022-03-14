@@ -1,0 +1,100 @@
+body {
+    font-size: 12.65pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: #000000;
+    padding: .325em;
+    background: white;
+}
+
+p {
+    color: #000000;
+    text-indent: 0.28in;
+    line-height: 1.34em;
+    word-break: normal;
+}
+
+p a {
+    text-indent: 0;
+}
+
+p.western {
+    font-size: 1em;
+}
+
+p.cjk {
+    font-size: 1em;
+}
+
+h1,
+h3,
+h4 {
+    text-align: center !important;
+}
+
+p.ctl {
+    font-size: 1em;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #ff0000;
+    text-align: center;
+    text-indent: 0;
+}
+
+h1.western {
+    font-size: 1.2em;
+}
+
+h1.cjk {
+    font-size: 1.2em;
+}
+
+h1.ctl {
+    font-size: .8em;
+}
+
+h3 {
+    color: #ff0000;
+    text-align: center;
+}
+
+h3.western {
+    font-size: 1em;
+}
+
+h3.cjk {
+    font-size: 1em;
+}
+
+h3.ctl {
+    font-size: .8em;
+}
+
+h4 {
+    color: #ff0000;
+    text-align: center;
+}
+
+h4.western {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+h4.cjk {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+h4.ctl {
+    font-size: .8em;
+    font-weight: bold;
+}
+
+a:link {
+    color: #0000ff;
+}
+
+a:visited {
+    color: #0000ff;
+}

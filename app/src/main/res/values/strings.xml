@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Служебник</string>
+    <string name="action_settings">Настройки</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">СЛУЖЕБНИК</string>
+    <string name="second_fragment_label"></string>
+    <string name="next">Вперёд</string>
+    <string name="previous">Назад</string>
+
+    <!-- Свои строки -->
+    <string name="button1">1. Последование Вечерни</string>
+    <string name="button2">2. Последование Утрени</string>
+    <string name="button3">3. Чин священныя и Божественныя Литургии</string>
+    <string name="button4">4. Божественная Литургия Иоанна Златоустого</string>
+    <string name="button5">5. Божественная Литургия Преждеосвященных Даров</string>
+    <string name="button6">6. Чин литии о усопших</string>
+    <string name="button7">7. Молитва разрешительная от иерея над преставльшемся</string>
+    <string name="button8">8. Молитва над кутьею (коливом) в память усопших</string>
+    <string name="button9">9. Молитва во еже благословити брашна мяса, во святую и великую неделю Пасхи</string>
+    <string name="button10">10. Молитва во еже благословити сыр и яйца, во святую и великую неделю Пасхи</string>
+    <string name="button11">11. Молитва во благословение артоса, во святую и великую неделю Пасхи</string>
+    <string name="button12">12. Молитва на раздробление артоса, в субботу Светлыя недели</string>
+    <string name="button13">13. Молитва на благословение нового меда, в первый день августа</string>
+    <string name="button14">14. Молитва на благословение винограда</string>
+    <string name="button15">15. Молитва о приносящих начатки овощей</string>
+</resources>
