@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <!--Свои цвета-->
     <color name="grey">#302d2e</color>
+    <color name="grey_light">#4a4647</color>
+    <color name="grey_light_light">#635d5f</color>
 </resources>
